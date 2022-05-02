@@ -4,4 +4,4 @@ do main
 
 BJB
 download pics for lutwyche businesses
-do header and footer
+    do header and footer--done BJB Sunday 020522 
