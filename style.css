@@ -9,6 +9,10 @@
 }
 
 main{
+    background-image: url("img/artisan.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -16,7 +20,7 @@ main{
     height: 100vh;
 }
 
-main a{
+main button{
     text-decoration: none;
     color: black;
     border: 2px solid black;
@@ -24,7 +28,7 @@ main a{
     border-radius: 10px;   
 }
 
-a:hover{
+button:hover{
     color: blue;
 }
 
